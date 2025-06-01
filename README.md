@@ -1,6 +1,6 @@
 # 🚀 LangChain Learning Journey
 
-Welcome! This is a personal repository where I'm learning and experimenting with **LangChain**, following tutorials and projects by [CampusX](https://www.youtube.com/@CampusX) and expanding with my own ideas.
+Welcome! This is a personal repository where I'm learning and experimenting with **LangChain**, following tutorials and projects by [CampusX](https://www.youtube.com/@campusx-official) and expanding with my own ideas.
 
 ---
 
